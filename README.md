@@ -1,4 +1,4 @@
-\# Python Speed Lab
+# Python Speed Lab
 
 
 
@@ -8,21 +8,21 @@ NumPy, Numba, Cython, and CUDA.
 
 
 
-\## Objectives
+## Objectives
 
 
 
-\- Compare Python execution performance
+- Compare Python execution performance
 
-\- Investigate CPU and GPU acceleration
+- Investigate CPU and GPU acceleration
 
-\- Visualize benchmark results
+- Visualize benchmark results
 
-\- Understand computational bottlenecks
+- Understand computational bottlenecks
 
 
 
-\## Technologies
+## Technologies
 
 
 
